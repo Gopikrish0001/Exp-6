@@ -3,46 +3,52 @@
 # NAME  :GOPIKRISHNAN M
 
 # AIM:
-To create UML diagrams for Student Online Exam Registration System.
+
+To draw the UML diagram for Student Online Exam Registration System.
+
 # SRS (Procedure):
-Step 1 - Open StarUML and start a new project.
 
-Step 2 - Name the project based on the system (e.g., ATM, Library).
+## Step 1: Problem Identification
 
-Step 3 - Identify actors and use cases from the system requirements.
+Manual exam registration causes errors, delays, and difficulty in managing student data. The system aims to automate online exam registration, fee payment, and admit card generation.    
 
-Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
+## Step 2: Requirement Analysis
 
-Step 5 - Add elements using the toolbox and connect them properly.
+Users: Student, Admin, and Exam Coordinator.    
+Main Functions: Student login, exam registration, subject selection, fee payment, and admit card download.    
+Non-Functional Needs: Data security, reliability, user-friendly interface, and fast processing.
 
-Step 6 - Label all components clearly and meaningfully.
+## Step 3: System Design
 
-Step 7 - Save and export diagrams as images or PDF.
+Create UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Design database tables for Students, Exams, Subjects, Payments, and Admit Cards.
 
-# DIAGRAMS:
+# UML DIAGRAMS:
 
-### USE CASE DIAGRAM
-![UseCaseDiagram1](https://github.com/user-attachments/assets/332db5f4-bafc-4763-9f76-05dfca9414a5)
+## Usecase Diagram:
+ 
+<img width="997" height="903" alt="image" src="https://github.com/user-attachments/assets/6710f442-6347-4193-af06-54ef54deab0d" />
 
-### ACTIVITY DIAGRAM
-![ActivityDiagram1](https://github.com/user-attachments/assets/25621cb1-248f-40bc-a85f-87d43cb1ca93)
+## Class Diagram:
 
+<img width="1168" height="837" alt="image" src="https://github.com/user-attachments/assets/e755ecdc-21e5-4339-ae53-04dbe353ce52" />
 
-### CLASS DIAGRAM
-![ClassDiagram1](https://github.com/user-attachments/assets/29699c0f-e77e-4d15-8b83-6babbcbe3ff9)
+## Activity Diagram:
 
+<img width="561" height="1062" alt="image" src="https://github.com/user-attachments/assets/ab647590-2dfc-4ba6-84b9-74b876e8ff54" />
 
-### COMMUNICATION DIAGRAM
+## Communication Diagram:
 
-![CommunicationDiagram1](https://github.com/user-attachments/assets/1408f9a3-def8-40d2-bd85-4c346bade010)
+<img width="1066" height="777" alt="image" src="https://github.com/user-attachments/assets/4fc30e81-9c1f-44dd-a35f-0dec88d97b49" />
 
-### PACKAGE DIAGRAM
+## Package Diagram:
 
-![PackageDiagram1](https://github.com/user-attachments/assets/c150bfa8-23d3-477d-a627-1a099bd5adb8)
+<img width="1022" height="681" alt="image" src="https://github.com/user-attachments/assets/48cca1a6-82f0-4c95-adbc-9d3a9209908a" />
 
-### SEQUENCE DIAGRAM
-![SequenceDiagram1](https://github.com/user-attachments/assets/087bce0f-fc7f-452c-9d7d-9834567c115f)
+## Sequence Diagram:
 
+<img width="1018" height="796" alt="image" src="https://github.com/user-attachments/assets/70a87b00-f3d9-4b49-b012-3ebf5c794f77" />
 
 # RESULT:
-Thus the Student information system project was executed and the output was verified.
+
+Thus the program is verified succeccfully.
